@@ -1,4 +1,4 @@
-/* AI powered self driving racecars using sexual reproduction and natural selection
+AI powered self driving racecars using sexual reproduction and natural selection
 by Anton Koenig, created in Aug 2021
 
 2D racecars are naturally selected based on their ability to navigate a racetrack in a given timespan. The goal is to 'evolve' a car that can race down any track as quickly as possible without crashing.
